@@ -1,6 +1,6 @@
 ### Halo, perkenalkan saya aksi sabar zebua! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksizhebua &label=Profile%20views&color=0e75b6&style=flat" alt="aksizhebua" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aksizhebua &label=Profile%20views&color=0e75b6&style=flat" alt="Aksizhebua" /> </p>
 
 Saya adalah seorang bussniss Develoment di PT AJMN yang bergerak dibidang retail yang bersemangat dalam desainer dan mendapatkan banyak pelanggan.
 
