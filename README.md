@@ -29,8 +29,8 @@ Saya adalah seorang bussniss Develoment di PT AJMN yang bergerak dibidang retail
 
 <h3 align="left">Statistik GitHub Saya:</h3>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME-ANDA]&show_icons=true&locale=en&theme=tokyonight" alt="[USERNAME-ANDA]" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[Aksizhebua]&show_icons=true&locale=en&theme=tokyonight" alt="[Aksizhebua]" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME-ANDA]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[USERNAME-ANDA]" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[Aksizhebua]&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="[Aksizhebua]" />
 </p>
